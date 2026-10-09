@@ -2,9 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Runs every 24 hours
     - cron: "0 0 * * *"
-  # Allows you to run this workflow manually
   workflow_dispatch:
 
 jobs:
@@ -16,11 +14,11 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: vectornomadhp88
-          # We are making the dots Blue and the Snake Orange so it's NOT green!
+          github_user_name: VECTORNOMADHP88
+          # Matrix Neon Green Theme!
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#E97627&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E97627&color_dots=#161b22,#003B57,#052FAD,#1BA0D7,#3776AB
+            dist/github-contribution-grid-snake.svg?color_snake=#00FF99&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF99&color_dots=#161b22,#00331f,#00663d,#00995c,#00cc7a
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
