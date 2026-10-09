@@ -57,27 +57,11 @@
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║  [ S T A T U S ]                                     ║
-╠══════════════════════════════════════════════════════╣
-║  NAME      : VECTOR NOMAD HP88                       ║
-║  TITLE     : Shadow Monarch of Data                  ║
-║  CLASS     : Data Analyst  →  Full-Stack Necromancer ║
-║  LEVEL     : ∞  (grinding daily)                     ║
-║  STATUS    : 🟢 Online • Fueled by coffee            ║
-╠══════════════════════════════════════════════════════╣
-║  HP   ████████████████████  9999 / 9999              ║
-║  MP   ████████████████░░░░  Focus (refills at 2 AM)  ║
-║  XP   ██████████████░░░░░░  Next level: Production   ║
-╠══════════════════════════════════════════════════════╣
-║  STR  ▰▰▰▰▰▰▰▱▱▱  Python / SQL                       ║
-║  INT  ▰▰▰▰▰▰▰▰▰▱  Data Analysis & Algorithms         ║
-║  AGI  ▰▰▰▰▰▰▰▰▱▱  Learning speed                     ║
-║  VIT  ▰▰▰▰▰▰▰▰▰▰  Never gives up                     ║
-║  SENSE▰▰▰▰▰▰▰▰▱▱  Debugging instinct                 ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="assets/status-window.svg" width="85%" alt="Status window"/>
+
+</div>
 
 > 💬 **Main ek digital nomad hu**, jo vectors, data aur algorithms ke beech traverse karta hai. Philosophy simple hai: *clean code likho, aesthetic interfaces banao, aur data ko apni kahani khud sunane do.*
 
