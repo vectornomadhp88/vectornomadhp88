@@ -274,22 +274,6 @@ flowchart LR
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VECTORNOMADHP88&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/VECTORNOMADHP88">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VECTORNOMADHP88&bg_color=0D1117&color=A66BFF&line=7B2FFF&point=00C8FF&area=true&area_color=7B2FFF&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <!-- Snake animation: iske liye .github/workflows/snake.yml add karo aur Action ek baar run karo -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VECTORNOMADHP88/VECTORNOMADHP88/output/github-contribution-grid-snake-dark.svg">
